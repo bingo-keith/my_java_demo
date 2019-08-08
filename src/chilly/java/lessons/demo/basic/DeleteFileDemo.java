@@ -1,4 +1,4 @@
-package basic_syntax;
+package chilly.java.lessons.demo.basic;
 import java.io.File;
 
 public class DeleteFileDemo {

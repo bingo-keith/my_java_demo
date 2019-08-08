@@ -1,4 +1,4 @@
-package basic_syntax;
+package chilly.java.lessons.demo.basic;
 
 class FreshJuice {
 	enum FreshJuiceSize{ SMALL, MEDIUM, LARGE }

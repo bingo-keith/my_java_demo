@@ -1,4 +1,4 @@
-package basic_syntax;
+package chilly.java.lessons.demo.basic;
 
 //此类模拟银行账户
 public class CheckingAccount

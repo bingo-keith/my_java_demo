@@ -1,4 +1,4 @@
-package basic_syntax;
+package chilly.java.lessons.demo.basic;
 
 //自定义异常类，继承Exception类
 public class InsufficientFundsException extends Exception

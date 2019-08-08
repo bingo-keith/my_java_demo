@@ -1,4 +1,4 @@
-package basic_syntax;
+package chilly.java.lessons.demo.basic;
 
 public class ExcepTest{
   public static void main(String args[]){
